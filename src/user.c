@@ -313,7 +313,7 @@ struct isupport {
 	{ "EXCEPTS"                               },
 	{ "INVEX"                                 },
 	{ "FNC"                                   },
-	{ "WHOX" /* TODO: this */                 },
+	{ "WHOX"                                  },
 	{ NULL },
 };
 
